@@ -7,7 +7,7 @@ The exercises are designed to **reinforce fundamental Python concepts**, with a 
 
 1- .PDF with 8 exercises, code screenshots and explanations.
 2- CODE in a JUPYTER NOTEBOOK.
-3- .TXT with a sample text for testing one of the Python programs.
+3- Two .TXT with sample texts for testing two of the Python programs.
 
 The exercises include, among others:
 
